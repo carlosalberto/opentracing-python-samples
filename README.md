@@ -1,1 +1,0 @@
-# opentracing-python-samples
